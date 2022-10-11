@@ -1,0 +1,10 @@
+POST http://localhost:9214/Contact/create
+Content-Type: application/json
+
+{
+    "FirstName": "chris",
+    "LastName": "Baker",
+    "PhoneNumber": "8548562",
+    "DoB": "Sept 30, 1354",
+    "Address": "13 Windward road"
+}
